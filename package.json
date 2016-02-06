@@ -1,0 +1,12 @@
+{
+  "name"          : "angularts",
+  "version"       : "0.0.1",
+  "registry"      : "github",
+  "vendor"        : "grishgrigoryan",
+  "main"          : "Main",
+  "libraries"     : {
+    "ecmal/core"        : "0.0.1",
+    "ecmal/node"        : "0.0.1",
+    "ecmal/runtime"     : "0.0.1"
+  }
+}
