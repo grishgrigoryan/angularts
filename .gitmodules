@@ -1,0 +1,6 @@
+[submodule "vendor/material"]
+	path = vendor/material
+	url = https://github.com/grishgrigoryan/material
+[submodule "vendor/angular"]
+	path = vendor/angular
+	url = https://github.com/grishgrigoryan/angular.js
