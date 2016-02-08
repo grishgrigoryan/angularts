@@ -2,9 +2,8 @@
 // Project: http://angularjs.org
 // Definitions by: Diego Vilar <http://github.com/diegovilar>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
+import './jquery';
 
-
-/// <reference path="jquery.d.ts" />
 
 interface Element {}
 interface Window {}

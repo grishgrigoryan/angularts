@@ -1,0 +1,22 @@
+{
+  "bower-angular"         : {
+          "version"       : "v1.5.0",
+          "files"         : ["angular.js"]
+  },
+  "bower-material"        : {
+          "version"       : "v1.0.5",
+          "files"         : ["angular-material.js","angular-material.css"]
+  },
+  "bower-angular-aria"    : {
+          "version"       : "v1.5.0",
+          "files"         : ["angular-aria.js"]
+  },
+  "bower-angular-animate" : {
+          "version"       : "v1.5.0",
+          "files"         : ["angular-animate.js"]
+  },
+  "bower-angular-route"   : {
+          "version"       : "v1.5.0",
+          "files"         : ["angular-route.js"]
+  }
+}
